@@ -11,5 +11,5 @@ phases:
       - ./gradlew assembleDebug
 artifacts:
   files:
-     - './android/app/build/outputs/Android/abc.apk'
+     - android/app/build/outputs/monash.apk
   discard-paths: yes
