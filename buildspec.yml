@@ -11,5 +11,5 @@ phases:
       - ./gradlew assembleDebug
 artifacts:
   files:
-     - './android/app/build/outputs/**/*.apk'
+     - aaa.apk
   discard-paths: yes
